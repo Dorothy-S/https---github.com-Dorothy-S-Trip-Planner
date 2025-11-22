@@ -33,7 +33,7 @@
                     </thead>
                     <tbody>
                         <% plans.forEach(plan => { %>
-                            <tr>
+                            <tr> <!-- create a table row -->
                                 <td class="plan-title"><%= plan.title %></td>
                                 <td class="plan-destination"><%= plan.destination %></td>
                                 <td class="plan-date"><%= plan.dateCreated.toLocaleDateString() %></td>
