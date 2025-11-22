@@ -2,6 +2,8 @@ Welcome to my Trip Planner!
 
 This is my Trip planner created with MongoDB, Express.js, EJS, and Node.js. Users can  create, view, edit, and delete travel plans through an intuitive interface that is visually aesthetic. The front end used EJS and CSS to create a styling design. Express.js is used as the backbone that handles routing and middleware operations. Mongo DB is used to store data. 
 
+Render live site: https://trip-planner-61je.onrender.com
+
 CRUD is used throughout the project to make sure there are Create, Read, Update, and Delete options. Stored data is shown on the home webpage for easy reading.
 
 User experience is in the center of the website. An interactive and visually applying website was imported. Adding images gives it the feel of a travel site and tells us it is a travel planner from when you have a glance. The design also prioritizes readability with the spacing and formatting.
